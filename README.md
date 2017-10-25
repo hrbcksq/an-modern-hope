@@ -1,5 +1,5 @@
 # An Modern Hope Theme
-### vscode theme inspired by a galaxy far far away...
+### vscode theme inspired by an old hope theme...
 ### Port of @JesseLeite's [atom syntax](https://github.com/JesseLeite/an-old-hope-syntax-atom)
 
 ## Palette
