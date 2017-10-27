@@ -141,11 +141,11 @@
         "panelTitle.activeBorder": "#4fb4d8",
         "panelTitle.activeForeground": "#cbcdd2",
         "panelTitle.inactiveForeground": null,
-        "statusBar.background": "#1a1b1c",
-        "statusBar.foreground": "#4FB4D8",
+        "statusBar.background": "#1c1d21",
+        "statusBar.foreground": "#4fb4d8",
         "statusBar.border": "#1c1d21",
         "statusBar.debuggingBackground": null,
-        "statusBar.debuggingForeground": null,
+        "statusBar.debuggingForeground": "#ffffff",
         "statusBar.debuggingBorder": null,
         "statusBar.noFolderForeground": null,
         "statusBar.noFolderBackground": "#1c1d21",
@@ -162,7 +162,7 @@
         "notification.foreground": "#cbcdd2",
         "notification.buttonForeground": "#1c1d21",
         "notification.infoBackground": "#4fb4d8",
-        "notification.infoForeground": "#1c1d21",
+        "notification.infoForeground": "#FFFFFF",
         "notification.warningBackground": "#ef7c2a",
         "notification.warningForeground": "#1c1d21",
         "notification.errorBackground": "#eb3d54",
@@ -319,8 +319,6 @@
                 "punctuation.separator.key-value"
             ],
             "settings": {
-                "fontFamily": "Fira Code",
-                "fontLigatures": "true",
                 "foreground": "#8C9EFF"
             }
         },
